@@ -1,8 +1,8 @@
 # SCRIPTS-TFG
 Achéganse os scripts usados para a toma de datos dos aparellos no setup do TFG: Caracterización Ambiental de electrónica para o futuro detector de vértices do LHCb: VELO Upgrade II
 
-Control_pres.ino é o código en C++ para manexar o Arduino ao que temos conectado o PT-100 (sensor de temperatura colocado donde o lpGBT).
-script_ é o script que toma os datos do PT-100, do MPT 200 (sensor presión cámara baleiro) e do sistema de refrixeración (chiller).
+1. Control_pres.ino é o código en C++ para manexar o Arduino ao que temos conectado o PT-100 (sensor de temperatura colocado donde o lpGBT).
+2. script_control_pt100_mpt200_chiller.py é o script de Python que toma os datos do PT-100, do MPT 200 (sensor presión cámara baleiro) e do sistema de refrixeración (chiller).
 
 
 *NOTA*: 
